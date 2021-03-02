@@ -1,3 +1,3 @@
 # Mineria_Datos
 ## Ejercicios  Basicos
-[Ejercicios de Limpieza]
+http://localhost:8888/notebooks/Jupiter/Ej_Limpieza_Equipo11.ipynb
