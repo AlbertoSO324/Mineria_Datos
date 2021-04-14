@@ -8,3 +8,6 @@
 ## 2da Fase
 
 [Presentación de Tecnicas](https://github.com/AlbertoSO324/Mineria_Datos/blob/944a6c7be93105eb08776d1618eb6e9d1eeccd3d/Detecci%C3%B3n-de-outliers.pdf)
+
+[Segunda Entreda del Pia](https://github.com/HectorENP/Mineria-de-Datos-003/blob/ec4fe6846788a95612d2e5928a41275c2dac1fc5/AvancePIA_II_Grupo_003_11.ipynb)
+
