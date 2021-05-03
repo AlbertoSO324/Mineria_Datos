@@ -15,6 +15,6 @@
 ## 3era Fase
 [Poster Primera Version]
 
-[Poster Segunda Version]
+[Poster Segunda Version]()
 
-[Python con Mapa del Poster](https://github.com/AlbertoSO324/Mineria_Datos/blob/158dc808e98b1bc5cc18beb0bcf59075e69c4e95/AvancePIA_2.0_II_Grupo_003_11-Copy1.ipynb)
+[Codigo Python para Poster_v.2](https://github.com/AlbertoSO324/Mineria_Datos/blob/770fe670d50414a640bf6cbbeb97b854264134d8/AvancePIA_3.0_II_Grupo_003_Equipo_11.ipynb)
