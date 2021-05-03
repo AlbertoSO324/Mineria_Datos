@@ -13,6 +13,8 @@
 
 [Correciones de la Segunda Entrega del Pia](https://github.com/HectorENP/Mineria-de-Datos-003/blob/06c04562e03c5da0388b935ece328f91749db384/AvancePIA_2.0_II_Grupo_003_11.ipynb)
 ## 3era Fase
+[Poster Primera Version]
 
+[Poster Segunda Version]
 
 
