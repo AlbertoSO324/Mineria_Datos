@@ -15,6 +15,6 @@
 ## 3era Fase
 [Poster Primera Version]
 
-[Poster Segunda Version]()
+[Poster Segunda Version](https://github.com/AlbertoSO324/Mineria_Datos/blob/ac377b83802c791b1724294f27385360dc50ecdc/Impacto%20mundial%20por%20la%20pandemia%20COVID-19.pdf)
 
 [Codigo Python para Poster_v.2](https://github.com/AlbertoSO324/Mineria_Datos/blob/770fe670d50414a640bf6cbbeb97b854264134d8/AvancePIA_3.0_II_Grupo_003_Equipo_11.ipynb)
