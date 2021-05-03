@@ -17,4 +17,4 @@
 
 [Poster Segunda Version]
 
-[Python con Mapa del Poster](https://github.com/AlbertoSO324/Mineria_Datos/blob/dc107a4c7e8a4e2505f4bbddea67d34fe48f5707/AvancePIA_2.0_II_Grupo_003_11-Copy1.ipynb)
+[Python con Mapa del Poster](https://github.com/AlbertoSO324/Mineria_Datos/blob/158dc808e98b1bc5cc18beb0bcf59075e69c4e95/AvancePIA_2.0_II_Grupo_003_11-Copy1.ipynb)
